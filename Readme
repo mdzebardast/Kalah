@@ -1,0 +1,13 @@
+
+This Kalah project is based on Spring Boot. 
+
+How to run : 
+
+just be sure that java 8 is installed on your machine then run :
+
+1. cd project folder
+
+2. java -jar ./target/Kalah-0.0.1.jar
+
+
+
